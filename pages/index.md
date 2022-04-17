@@ -22,8 +22,6 @@ guide for a complete summary. Briefly:
  - *News*
  - *Search* by people, news
  - *Support*
- - 
-
 
 For features, getting started with development, see the {% include doc.html name="Getting Started" path="getting-started" %} page. Would you like to request a feature or contribute?
 [Open an issue]({{ site.repo }}/issues)
