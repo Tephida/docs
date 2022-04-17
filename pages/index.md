@@ -13,7 +13,7 @@ This is a multi-user social engine
 
 ## Features
 
-What are these features? You should see the {% include doc.html name="Getting Started" path="getting-started" %}
+What are these features? You should see the {% include doc.html name="Getting Started" path="features" %}
 guide for a complete summary. Briefly:
 
  - *Privacy*
