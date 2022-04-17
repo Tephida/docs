@@ -29,14 +29,9 @@ baseurl: "/docs" # the subpath of your site, e.g. /blog
 url: "https://vsoch.github.io" # the base hostname & protocol for your site
 
 # Social (First three Required)
-repo: "https://github.com/vsoch/docsy-jekyll"
-github_user: "vsoch"
-github_repo: "docsy-jekyll"
-
-# Optional
-twitter: vsoch
-linkedin: vsochat
-dockerhub: vanessa
+repo: "https://github.com/tephida/docs"
+github_user: "semyon492"
+github_repo: "docs"
 
 # Should there be feedback buttons at the bottom of pages?
 feedback: true
