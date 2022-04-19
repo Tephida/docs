@@ -1,8 +1,7 @@
 ---
 title: Getting Started
-tags: 
- - jekyll
- - github
+tags:
+ - tephida
 description: Getting started with Docsy Jekyll
 ---
 
