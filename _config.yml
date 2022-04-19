@@ -29,7 +29,7 @@ baseurl: "/docs" # the subpath of your site, e.g. /blog
 url: "https://tephida.github.io" # the base hostname & protocol for your site
 
 # Social (First three Required)
-repo: "https://github.com/tephida/docs"
+repo: "https://docs.tephida.qd2.ru"
 github_user: "tephida"
 github_repo: "docs"
 
