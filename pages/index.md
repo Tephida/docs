@@ -8,7 +8,7 @@ permalink: /
 
 This is a multi-user social engine
 
-![app.gif](https://raw.githubusercontent.com/Tephida/vii/master/images/app.gif)
+[//]: # (![app.gif]&#40;https://raw.githubusercontent.com/Tephida/vii/master/images/app.gif&#41;)
 
 
 ## Features
