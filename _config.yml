@@ -27,6 +27,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 
 # This is mostly for testing
 url: "https://tephida.github.io" # the base hostname & protocol for your site
+url2: "https://tephida.github.io/docs" # the base hostname & protocol for your site
 
 # Social (First three Required)
 repo: "https://github.com/Tephida/docs"
