@@ -30,6 +30,10 @@ url: "https://tephida.github.io" # the base hostname & protocol for your site
 
 # Social (First three Required)
 repo: "https://github.com/Tephida/docs"
+
+site:
+  - baseurl: "https://raw.githubusercontent.com/Tephida/docs/master"
+
 github_user: "tephida"
 github_repo: "docs"
 
